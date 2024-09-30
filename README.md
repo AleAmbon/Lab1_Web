@@ -3,7 +3,7 @@ Nama : Riski Keliolan
 <br>
 NIM  : 312310716
 <br>
-Kelas: TI.23.A3
+Kelas : TI.23.A3
 
 # Hasil Output Project
 
